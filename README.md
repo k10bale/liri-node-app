@@ -1,5 +1,7 @@
-liri-node-app
-About the app
+<H1> liri-node-app
+
+
+<H4> About the app
 The Language Interpretation and Recognition Interface (LIRI) is a command-line Node JS application that accepts specific commands and displays the results to the user.
 
 Command list
