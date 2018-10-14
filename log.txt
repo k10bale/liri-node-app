@@ -1,0 +1,58 @@
+
+================= LIRI SAYS...==================
+    Song Name: "ALIENS" 
+    Album Name: Enema Of The State 
+    Artist Name: blink-182 
+    URL: https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38 
+------------------------------------------------------------
+
+================= LIRI SAYS...==================
+    Title: Big 
+    Year: 1988 
+    Rated: PG 
+    Country: USA 
+    Language: English 
+    Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+    Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+    IMDB Rating: 7.3 
+    Tomato Rating: 97% 
+------------------------------------------------------------
+
+================= LIRI SAYS...==================
+    Title: Big Daddy 
+    Year: 1999 
+    Rated: PG-13 
+    Country: USA 
+    Language: English, Italian 
+    Plot: A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned and he becomes the unlikely foster father. 
+    Actors: Adam Sandler, Joey Lauren Adams, Jon Stewart, Cole Sprouse 
+    IMDB Rating: 6.4 
+    Tomato Rating: 40% 
+------------------------------------------------------------
+
+================= LIRI SAYS...==================
+    Title: Big 
+    Year: 1988 
+    Rated: PG 
+    Country: USA 
+    Language: English 
+    Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+    Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+    IMDB Rating: 7.3 
+    Tomato Rating: 97% 
+------------------------------------------------------------
+
+================= LIRI SAYS...==================
+    Song Name: THE SIGN (ACE OF BASE) 
+    Album Name: The Sign (US Album) [Remastered] 
+    Artist Name: Ace of Base 
+    URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB 
+------------------------------------------------------------
+
+================= LIRI SAYS...==================
+    Song Name: THE SIGN (ACE OF BASE) 
+    Album Name: The Sign (US Album) [Remastered] 
+    Artist Name: Ace of Base 
+    URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB 
+------------------------------------------------------------
+
